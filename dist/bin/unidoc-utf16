@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+# vim: fenc=utf-8 ff=unix ft=python lcs=tab\:>. list noet sw=4 ts=4 tw=0
+from unicnv.unidoc_utf16 import main
+
+if '__main__' == __name__:
+	main()
